@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Yes we can
+=======
+Hello we can
+>>>>>>> iss07
