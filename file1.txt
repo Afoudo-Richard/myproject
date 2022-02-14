@@ -1,5 +1,1 @@
-first content of file 1
-second content in file 1
-Let love leads
-First change in branch
-second change in branch
+newest content
