@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Yes we can
-=======
-Hello we can
->>>>>>> iss07
+local content new
