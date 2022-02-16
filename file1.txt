@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 local content new
+=======
+<<<<<<< HEAD
+Yes we can
+=======
+Hello we can
+>>>>>>> iss07
+yes we can because we care
+>>>>>>> refs/remotes/origin/main
